@@ -9802,6 +9802,10 @@ a:focus {
   color: #1dc78a !important;
 }
 
+.text-red-900 {
+  color: #e64a3b !important;
+}
+
 .icon-circle {
   height: 2.5rem;
   width: 2.5rem;
